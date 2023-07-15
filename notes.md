@@ -13,5 +13,9 @@ En JS se encuentra las siguientes variables para usar a la hora de programar.
 
 ![alt text](Const.png)
 
+3. **null and udefined**
+> El tipo null sólo puede tener el valor null y el tipo undefined sólo puede tener el valor undefined.
+
+![alt text](nullundefined.png)
 
 
