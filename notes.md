@@ -18,4 +18,9 @@ En JS se encuentra las siguientes variables para usar a la hora de programar.
 
 ![alt text](nullundefined.png)
 
+4. **operador typeof**
+> El operador typeof devuelve una cadena de texto que indica el tipo de un operando. Puede ser usado con cualquier tipo de operando, incluyendo variables y literales.
+
+![alt text](typeof.png)
+
 
