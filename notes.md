@@ -24,3 +24,8 @@ En JS se encuentra las siguientes variables para usar a la hora de programar.
 ![alt text](typeof.png)
 
 
+5. **comentarios**
+> Los comentarios son útiles para explicar el por qué del código, documentar los cambios realizados en el código y hacer que el código sea más fácil de entender para otros desarrolladores. Hay dos tipos de comentarios en JavaScript: los comentarios de una sola línea y los comentarios de varias líneas.
+
+![alt text](Comentariosolalinea.png)
+![alt text](Comentariovariaslineas.png)
