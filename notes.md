@@ -45,4 +45,6 @@ En JS se encuentra las siguientes variables para usar a la hora de programar.
 > Imagina que quieres mostrar un mensaje si la edad de un usuario es mayor o igual a 18 años. Podrías hacerlo así:
 
 ![alt text](Condicional_if.png)
+![alt text](Condicional_else.png)
+![alt text](Condicional_elseif.png)
 
