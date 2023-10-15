@@ -29,3 +29,20 @@ En JS se encuentra las siguientes variables para usar a la hora de programar.
 
 ![alt text](Comentariosolalinea.png)
 ![alt text](Comentariovariaslineas.png)
+
+
+## Estructuras de control
+
+> Controla el flujo de ejecución de tu programa con condicionales y bucles.
+
+1. **Código Condicional**
+
+> Controla el flujo de ejecución de tu programa con condicionales y bucles.
+> En JavaScript usamos la palabra reservada if para crear un bloque condicional, así:
+
+### Ejemplo
+
+> Imagina que quieres mostrar un mensaje si la edad de un usuario es mayor o igual a 18 años. Podrías hacerlo así:
+
+![alt text](Condicional_if.png)
+
