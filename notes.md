@@ -48,3 +48,12 @@ En JS se encuentra las siguientes variables para usar a la hora de programar.
 ![alt text](Condicional_else.png)
 ![alt text](Condicional_elseif.png)
 
+2. **Bucles con While**
+
+> Un bucle es una estructura de control que permite repetir un bloque de instrucciones. Vamos, repetir una tarea tantas veces como queramos.
+
+> En JavaScript, existen varias formas de lograrlo, y una de ellas es el bucle con while. El bucle while es una estructura de control de flujo que ejecuta una sección de código mientras se cumple una determinada condición.
+
+## Ejemplo
+
+![alt text](Bucle%20While.png)
